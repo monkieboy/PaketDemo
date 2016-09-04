@@ -1,0 +1,7 @@
+source https://www.nuget.org/api/v2/
+framework >= net45
+
+nuget FAKE
+nuget FsCheck
+nuget Newtonsoft.Json 9.0.1
+nuget Xunit 2.1.0
